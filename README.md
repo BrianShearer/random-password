@@ -27,17 +27,8 @@ THEN the password is either displayed in an alert or written to the page
 Mock-Up
 The following image shows the web application's appearance and functionality:
 
-password generator demo
 
-How to Complete the Challenge
-Follow these steps to complete the challenge:
 
-Clone the starter code (Links to an external site.).
-
-Modify the code to meet the Acceptance Criteria.
-
-Ensure that your work meets the full list of grading requirements below.
-
-Reach out to your classmates and instructional support team for help if you need it.
-
-Follow the submission instructions.
+In this challenge I used the prompt window function ask the user how long they wanted as a password and whether or not they wanted; uppercase, lowercase letters, numbers or symbols 
+I started with one function Writepassword. I was unable to get more than one character at a time. I split the code into two functions. One, was the arrey function with the queryselector. The other had the for loop this worked. I need to research why. 
+I used the modules on the robot to figure out the window.prompts. I used U tube to find examples of password generators. The utube videos helped me organize the functions and variables. There where a lot of advanced versions that where helpful.
